@@ -1,11 +1,3 @@
-"""
-Skeleton CNN model for end-to-end navigation.
-
-This is a placeholder architecture. Later you can:
- - change the depth
- - add recurrent layers (LSTM/GRU)
- - plug into an RL algorithm or supervised learning pipeline.
-"""
 
 from __future__ import annotations
 
