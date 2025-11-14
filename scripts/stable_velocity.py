@@ -1,13 +1,10 @@
-"""
-Demo script for flying with a constant velocity.
-This is a first step toward controlled data collection.
-"""
+
 
 from __future__ import annotations
 
 import time
 
-import airsim  # type: ignore
+import airsim  
 
 from config import CONFIG
 
